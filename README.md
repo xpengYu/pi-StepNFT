@@ -1,7 +1,7 @@
 # $\pi$-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs
 
 <div align="center">
-  <a href="#homepage"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Homepage-00A3FF" alt="Homepage"/></a>
+  <a href="https://wangst0181.github.io/pi-StepNFT/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Homepage-00A3FF" alt="Homepage"/></a>
   <a href='#arxiv'><img src='https://img.shields.io/badge/%F0%9F%93%96%20Paper-ArXiv-C71585'></a>
 </div>
 
